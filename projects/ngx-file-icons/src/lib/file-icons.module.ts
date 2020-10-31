@@ -9,4 +9,4 @@ import { IconComponent } from './icon.component';
   exports: [IconComponent],
   imports: [CommonModule]
 })
-export class NgxFileIconsModule { }
+export class FileIconsModule { }
