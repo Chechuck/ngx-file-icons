@@ -1,6 +1,6 @@
 {
   "name": "ngx-file-icons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "author": "Chechuck",
   "description": "An angular library to display file icons according to their extension",
