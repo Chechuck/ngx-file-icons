@@ -1,0 +1,29 @@
+{
+  "name": "ngx-file-icons",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Chechuck",
+  "description": "An angular library to display file icons according to their extension",
+  "peerDependencies": {
+    "@angular/common": "^10.2.0",
+    "@angular/core": "^10.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "keywords": [
+    "angular",
+    "library",
+    "file",
+    "icon",
+    "svg"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chechuck/ngx-file-icons"
+  },
+  "bugs": {
+    "url": "https://github.com/Chechuck/ngx-file-icons/issues"
+  },
+  "homepage": "https://github.com/Chechuck/ngx-file-icons"
+}

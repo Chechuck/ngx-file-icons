@@ -1,6 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
+/projects/ngx-file-icons/dist
 /dist
 /tmp
 /out-tsc
@@ -44,3 +45,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# File Icons Vector
+/projects/ngx-file-icons/src/lib/icon.component.css
+/projects/ngx-file-icons/src/lib/icons/catalog.json
+/projects/ngx-file-icons/src/lib/icons
